@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal Mentor</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Unreal Mentor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      
+      <description>&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;
+&lt;p&gt;About Unreal Mentor&lt;/p&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;This project would not have been possible without the following projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

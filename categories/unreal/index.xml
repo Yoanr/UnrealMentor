@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal on Unreal Mentor</title>
+    <link>http://localhost:1313/categories/unreal/</link>
+    <description>Recent content in Unreal on Unreal Mentor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/unreal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article with categories</title>
+      <link>http://localhost:1313/posts/articlecategories/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/articlecategories/</guid>
+      
+      <description>&lt;h2 id=&#34;test&#34;&gt;Test&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s some &lt;strong&gt;bold&lt;/strong&gt; text.&lt;/p&gt;
+&lt;p&gt;There are two categories in this article: Unreal and Gameplay.&lt;/p&gt;
+&lt;p&gt;The links below link to category pages where you can find similar posts&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
